@@ -1,0 +1,13 @@
+{
+    "wait": "_Dalam Proses_",
+    "error": {
+        "Iv": "Link yang kamu berikan tdk valid",
+        "api": "Maaf trjdi kesalahan"
+    },
+    "OnlyGrup": "Cmd ini hnya bs dignakan di grup",
+    "OnlyPM": "Cmd ini hnya bs dignakan di private message",
+    "GrupAdmin": "Cmd ini hnya bs dignakan olh Admin Grup",
+    "BotAdmin": "Bot hrs menjadi admin",
+    "OnlyOwner": "Cmd hnya dapat dignakan olh owner bot",
+    "OnlyPrem": "Cmd ini khusus member prem"
+}

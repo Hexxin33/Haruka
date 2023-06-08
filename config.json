@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["6282120254162@s.whatsapp.net","6282120254162@s.whatsapp.net"],
+    "ownerName": "Dannz",
+    "instagram" : "Priv",
+    "gcwa" : "http://tiny.cc/bet7vz",
+    "botName": "Opetzz ",
+    "footer": "Opetzz | Dannz",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "AGcDnzUw",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_ai_japri": false,
+    "auto_ai_grup": false,
+    "auto_welcomeMsg": false,
+    "auto_leaveMsg": false, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "japriOnly": false, 
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": false,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 100000,
+    "gcount": {
+        "prem": 100000,
+        "user": 100000
+    }
+}
